@@ -130,3 +130,4 @@ Test Örnekleri:
 Değişken ataması (örn. x = 10.) ve kullanım (örn. x+5. → Result: 15)
 
 Sıfıra bölme durumunda hata mesajı
+Mehmet Begun 231104084
